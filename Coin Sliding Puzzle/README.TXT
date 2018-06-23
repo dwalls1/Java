@@ -8,8 +8,5 @@ the original confi gurationand also an Exit button.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Coin Sliding Puzzle
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
 AUTHORS: Darion Walls
 USER INSTRUCTIONS: Run main args in CoinFrame class.
